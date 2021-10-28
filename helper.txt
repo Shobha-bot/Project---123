@@ -1,0 +1,25 @@
+122{
+    Start designing the web application. This HTML page should have the following:
+
+Add a good background image for the web page, it can be a doodle image of the text, font, drawing, or anything else.     Done
+
+Add a heading to the website, this heading should contain:
+
+A heading for the website.      Done
+
+A note on how to use this website.    Done
+
+An empty span tag and don’t forget to give id to this tag as in the next project you will use this id 
+in JS code for updating this span tag with the font size, which is changing dynamically.     Done
+
+Use bootstrap classes to make the heading look good.       Done
+
+Create a copyright footer, and make it stick to the bottom of the page. 
+
+Add bootstrap classes to make the footer look good.   Done
+
+Also add some good style like background color, changing the font style, 
+border, adding padding, and margin in style.css.      Done
+
+In CSS add style for canvas.       Done
+}
